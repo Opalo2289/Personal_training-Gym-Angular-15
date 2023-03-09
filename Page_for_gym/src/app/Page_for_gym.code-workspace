@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../../CRUD_Angular-15/crud15"
+		}
+	],
+	"settings": {}
+}
