@@ -9,7 +9,7 @@ import { UserEditComponent } from './user-edit/user-edit.component';
 import { UserListComponent } from './user-list/user-list.component';
 
 export const UserRoutes: Routes = [
-    {path: '', title: 'Home Page',  component: HomePageComponent},
+    {path: '', title: 'JOWFIT COACH',  component: HomePageComponent},
     {path: 'services', title: 'Services',  component:  ServicesPageComponent},
     {path: 'training', title: 'Training-plans',  component:  TrainingPlansPageComponent},
     {path: 'shopping', title: 'Shopping',  component:  ShoppingPageComponent},
