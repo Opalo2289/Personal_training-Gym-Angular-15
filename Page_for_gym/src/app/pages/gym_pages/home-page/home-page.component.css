@@ -1,6 +1,13 @@
 
 
 /*Barra de navegacion*/
+.badge {
+    cursor: pointer;
+}
+
+.nav-link {
+    cursor: pointer;
+}
 .navbar {
     padding: 2rem;
 }

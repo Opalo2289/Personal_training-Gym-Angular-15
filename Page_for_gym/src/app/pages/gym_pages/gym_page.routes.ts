@@ -10,10 +10,10 @@ import { UserListComponent } from './user-list/user-list.component';
 
 export const UserRoutes: Routes = [
     {path: '', title: 'JOWFIT COACH',  component: HomePageComponent},
-    {path: 'services', title: 'Services',  component:  ServicesPageComponent},
-    {path: 'training', title: 'Training-plans',  component:  TrainingPlansPageComponent},
-    {path: 'shopping', title: 'Shopping',  component:  ShoppingPageComponent},
-    {path: 'contact', title: 'Contact',  component:  ContactPageComponent},
+    {path: 'servicios', title: 'Services',  component:  ServicesPageComponent},
+    {path: 'entrenamiento', title: 'Training-plans',  component:  TrainingPlansPageComponent},
+    {path: 'compras', title: 'Shopping',  component:  ShoppingPageComponent},
+    {path: 'contacto', title: 'Contact',  component:  ContactPageComponent},
     {path: 'list', title: 'User List',  component:  UserListComponent},
     {path: 'add', title: 'User Add',  component:  UserAddComponent},
     {path: 'edit', title: 'User Edit', component: UserEditComponent}
